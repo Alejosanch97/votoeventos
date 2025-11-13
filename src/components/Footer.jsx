@@ -12,7 +12,7 @@ export const Footer = () => (
             {/* 1. Título Original */}
             <h5 className="mb-3 fw-bold footer-title"> 
                 <FaCalendarAlt className="me-2" />
-                GoOrNo
+                FunFetch
             </h5>
 
             {/* 3. Línea Divisoria Simple */}
